@@ -2,8 +2,6 @@
 ## Education
 masters in Information Technology 
 University of Cincinnati
-Bachelor of Engineering
-Sri Chandrasekarendra Saraswathi Viswa Maha Vidyalaya
 ### Work Experience
 Engineer II
 American Express (Contract)Jul 2024 – Jan 2025 | Arizona, USA (On-site)
