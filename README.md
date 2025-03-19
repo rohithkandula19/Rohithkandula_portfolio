@@ -1,6 +1,5 @@
 Rohith Kandula – Full Stack Java Developer
 
-Email: kandularohithhh@gmail.com
 Location: Cincinnati, Ohio, USA
 Education: Master's in Information Technology, University of Cincinnati​
 # About me
