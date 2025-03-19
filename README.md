@@ -1,4 +1,4 @@
-Rohith Kandula – Full Stack Java Developer
+Rohith Kandula – Java Full Stack Developer
 
 Location: Cincinnati, Ohio, USA
 Education: Master's in Information Technology, University of Cincinnati​
