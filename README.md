@@ -62,9 +62,9 @@ AWS Certified Solutions Architect – Associate
 Issued: December 2023​
 
 
-# Email: kandularohithhh@gmail.com
-# LinkedIn: linkedin.com/in/rohith-kandula-702291357
-# GitHub: github.com/rohithkandula19
+Email: kandularohithhh@gmail.com
+LinkedIn: linkedin.com/in/rohith-kandula-702291357
+GitHub: github.com/rohithkandula19
 
 
 
