@@ -5,95 +5,94 @@ Java Full Stack Developer with 4+ years of experience delivering end-to-end web 
 building secure RESTful APIs, developing responsive user interfaces, and integrating robust backend systems with cloud-native deployment on AWS. Proficient in database design and management (MySQL, PostgreSQL, MongoDB), and experienced in DevOps practices using Docker, Kubernetes, and CI/CD pipelines.
 Focused on delivering high-quality, scalable, and maintainable code with a strong emphasis on performance optimization, clean architecture, and real-world problem-solving.
 
+## Skills1. Full Stack Development
+1 Java (Spring Boot, Spring MVC, Spring Security)
+React.js, Angular, HTML5, CSS3, Bootstrap, Material-UI
+RESTful APIs and Microservices Architecture
 
-# Relevant Coursework:
-Advanced Java Programming​
-Web Application Development​
-Database Management Systems​
-Software Engineering Principles​
+2 Cloud Technologies & Deployment
+AWS (EC2, S3, Lambda, CloudWatch, CloudFormation)
+Docker and Kubernetes (Containerization and Orchestration)
+Terraform (Infrastructure as Code)
 
-## Skills
-Languages: Java, JavaScript, HTML, CSS
-Frameworks: Spring Boot, Angular, React.js
-Databases: MySQL, MongoDB, PostgreSQL
-Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins
-Testing & Documentation: JUnit, Mockito, Selenium, Swagger, Postman
+3 Database Management
+MySQL, PostgreSQL, MongoDB
+Redis (for caching) and ElasticSearch (Search optimization)
+
+4 DevOps & CI/CD
+Jenkins, GitLab CI/CD
+Docker and Kubernetes for automated build and deployment
+
+5 Security & Authentication
+Spring Security, OAuth 2.0, JWT
+OWASP Best Practices for secure coding
+
+6 Testing & Quality Assurance
+JUnit, Mockito, Selenium (for test automation)
+Postman (for API testing)
 
 ## Professional Experience
 
-**Engineer II (Java Full Stack Developer)**
-American Express (Contract), Arizona, USA
+**Capital One (Java Full Stack Developer)**
+Cincinnati, USA 
 July 2024 – January 2025
-• Designed and developed scalable RESTful APIs for merchant data handling and transaction management using Java, Spring Boot, and Spring MVC.
-• Implemented secure data workflows with OAuth2.0, JWT, and Spring Security, ensuring compliance with enterprise-grade security standards.
-• Integrated backend services with downstream systems and third-party APIs to ensure seamless merchant transaction processing.
-• Participated in merchant onboarding module redesign, optimizing performance and reducing latency by 25%.
-• Utilized Hibernate (JPA) and PostgreSQL for efficient data modeling and query execution.
-• Collaborated with frontend teams to integrate APIs into React.js-based merchant dashboards, ensuring a smooth UI/UX experience.
-• Applied CI/CD pipelines using Jenkins, Docker, and GitLab, improving deployment speed and reducing manual errors.
-• Engaged in Agile ceremonies (daily stand-ups, sprint demos, retrospectives) and contributed to technical documentation and knowledge sharing.
-• Used Postman, Swagger, and unit testing (JUnit, Mockito) to ensure API quality, performance, and stability in production.
+• Designed and developed scalable web applications using Java, Spring Boot, React.js, and Angular, ensuring seamless integration between front-end and back-end systems.
+• Implemented secure authentication and authorization with OAuth2.0, JWT, and Spring Security, and deployed applications on AWS to ensure high availability and scalability.
+• Managed databases such as MySQL, PostgreSQL, and MongoDB, and optimized performance with complex queries and data access layers.
+• Worked in an Agile environment, implemented CI/CD pipelines with Jenkins and Docker, and collaborated with cross-functional teams to enhance system performance and ensure application stability.
+
+**Fidelity Investments (Java Developer)**
+Texas, USA
+Oct 2023 – Jun 2024
+• Designed and implemented scalable backend systems using Java, Spring Boot, and Hibernate for financial applications, focusing on real-time trading and transaction processing with low-latency and high-throughput performance.
+• Developed and integrated RESTful APIs for seamless communication across services, implemented security protocols with Spring Security, OAuth2.0, and JWT, and ensured compliance with industry regulations (like GDPR and PCI-DSS).
+•Architected and developed microservices to decouple monolithic systems, worked extensively with databases (MySQL, Oracle, MongoDB), and optimized system performance through CI/CD pipelines using Jenkins, GitLab, and Docker.
+• Collaborated with cross-functional teams in an Agile environment, utilizing cloud technologies like AWS and integrating monitoring tools (ELK Stack, Prometheus) to ensure high availability, scalability, and system health.
 
 
+**UPGrad (Software Developer)**
+Hyderabad, India
+Sep 2021 – Aug 2023
+• Developed and maintained scalable backend services using Java, Spring Boot, and Hibernate to support an e-learning platform, implementing RESTful APIs for smooth data exchange between frontend and backend systems.
+• Deployed applications using AWS services like EC2, S3, and Lambda, optimizing performance with SQL queries and Redis caching to ensure high scalability and low latency.
+• Integrated authentication and security with Spring Security and JWT, participated in code reviews, and ensured high code quality through JUnit and Mockito in an Agile environment.
+• Automated build and deployment processes using CI/CD pipelines with Jenkins and GitLab, and maintained comprehensive documentation to support efficient team collaboration and future scalability.
 
-**Java Full Stack Developer**
-Infosys, India
-June 2023 – June 2024
-• Developed scalable web applications using Java, Spring Boot, React.js, and Angular, delivering robust end-to-end solutions.
-• Designed and consumed RESTful APIs for seamless frontend-backend integration across modules.
-• Implemented Spring Security and JWT-based authentication to enhance application security.
-• Built dynamic, responsive UI components using React.js, Redux, Bootstrap, and Material-UI.
-• Integrated Hibernate (JPA) for ORM and optimized SQL queries with MySQL/PostgreSQL.
-• Deployed applications on AWS (EC2, S3, Lambda) and maintained performance using CloudWatch.
-• Followed Agile methodologies, collaborated with cross-functional teams, and contributed to code reviews and sprint planning.
-
-**UI Designer (Intern)**
-AST Consulting
-June 2022 – November 2022 
-• Collaborated with cross-functional teams to design user-friendly interfaces for web and mobile applications, enhancing overall user experience (UX).
-• Created wireframes, mockups, and interactive prototypes using tools like Figma and Adobe XD, aligning with client branding and usability goals.
-• Conducted UX research through user interviews, surveys, and usability testing to guide design decisions.
-• Worked closely with developers to ensure design feasibility and maintain UI consistency across platforms.
-• Participated in client review meetings to gather feedback and iterate on design solutions.
-• Applied principles of responsive design, accessibility, and visual hierarchy to improve product usability. 
-
-
+**AST Consulting (UI Designer)**
+Noida, India
+Mar 2021- Aug 2021                           
+• Collaborated with cross-functional teams (developers, product managers, designers) to understand user requirements and create user-centered designs including wireframes, mockups, and prototypes.
+• Conducted user research, including usability testing, user interviews, and surveys, to gather insights and improve the overall user experience.
+• Developed and maintained design systems to ensure consistency across all platforms, creating adaptable and responsive designs for multiple screen sizes and devices.
+• Utilized tools like Sketch, Figma, Adobe XD, and Invision to create interactive prototypes, and effectively communicated design concepts and ideas to stakeholders through presentations and reviews.
 
 ## Projects
+**1 E-Learning Platform**
+Description: Develop a scalable e-learning platform using Java, Spring Boot, React.js, and MongoDB for managing courses, users, and assessments.
+Key Features:
+User registration, authentication (OAuth2.0, JWT)
+Cloud deployment using AWS (EC2, S3)
+Real-time chat and notifications using WebSocket
+Technologies Used: Java, Spring Boot, React.js, MongoDB, AWS, JWT, Redis (for caching).
 
-1. E-Commerce Platform
+**2 Financial Dashboard for Investment Tracking**
+Description: A financial dashboard for tracking investments in stocks, mutual funds, and other assets.
+Key Features:
+RESTful APIs for accessing stock market data (using an external API).
+Database integration with MySQL or PostgreSQL for user data and transactions.
+Real-time data processing using Apache Kafka.
+Deployment on AWS for scalability.
+Technologies Used: Java, Spring Boot, React.js, MySQL, AWS, Kafka, JWT
 
-Description: Developed a full-featured e-commerce web application allowing users to browse products, manage shopping carts, and process payments securely.​
-Technologies Used: Java, Spring Boot, React.js, MySQL, Stripe API​
-Features:
-User authentication and authorization​
-Product search and filtering​
-Shopping cart and order management​
-Payment gateway integration​
-
-
-2. Digital Banking Platform: Leading US-based Financial Institution
-Built user dashboard in ReactJS with data visualization for recent transactions, KYC updates, and loan applications.
-
-
-
-3. Personal Finance Tracker
-
-Description: Created a web application to help users track income, expenses, and visualize financial data through interactive charts.​
-Technologies Used: Java, Spring Boot, Angular, MongoDB​
-Features:
-Dashboard displaying financial summaries​
-Category-wise expense tracking​
-Budget setting and alerts​
-Data visualization with charts and graphs​
-
-## Certifications
-Oracle Certified Professional: Java SE 11 Developer
-Issued: August 2023
-
-AWS Certified Solutions Architect – Associate
-Issued: December 2023​
-
+**3 Customer Support Ticketing System**
+Description: Build a customer support ticketing system that allows users to submit issues and track the progress of support tickets.
+Key Features:
+Role-based access control (Admin, Support Agent, Customer).
+Ticket creation, updating, and tracking with real-time notifications.
+Admin panel to manage tickets, assign agents, and track response times.
+Database management with PostgreSQL or MySQL.
+RESTful APIs for interaction with the system.
+Technologies Used: Java, Spring Boot, React.js, PostgreSQL, JWT, AWS.
 
 ## Education
 Master of Science in Information Technology
