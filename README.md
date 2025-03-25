@@ -98,9 +98,9 @@ Master of Science in Information Technology
 University of Cincinnati
 Graduated: December 2024
 
-Email: kandularohithhh@gmail.com
-LinkedIn: www.linkedin.com/in/rohith-kandula-702291357
-GitHub: https://github.com/rohithkandula19
+-**Email**: kandularohithhh@gmail.com
+-**LinkedIn**: www.linkedin.com/in/rohith-kandula-702291357
+-**GitHub**: https://github.com/rohithkandula19
 
 
 
