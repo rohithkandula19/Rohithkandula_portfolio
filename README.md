@@ -1,4 +1,3 @@
-Rohith Kandula – Java Full Stack Developer
 
 # About me
 Java Full Stack Developer with 4+ years of experience delivering end-to-end web applications using Java, Spring Boot, React.js, and Angular. Skilled in
