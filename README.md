@@ -6,28 +6,28 @@ building secure RESTful APIs, developing responsive user interfaces, and integra
 Focused on delivering high-quality, scalable, and maintainable code with a strong emphasis on performance optimization, clean architecture, and real-world problem-solving.
 
 ## Skills1. Full Stack Development
-1 Java (Spring Boot, Spring MVC, Spring Security)
+1. Java (Spring Boot, Spring MVC, Spring Security)
 React.js, Angular, HTML5, CSS3, Bootstrap, Material-UI
 RESTful APIs and Microservices Architecture
 
-2 Cloud Technologies & Deployment
+2. Cloud Technologies & Deployment
 AWS (EC2, S3, Lambda, CloudWatch, CloudFormation)
 Docker and Kubernetes (Containerization and Orchestration)
 Terraform (Infrastructure as Code)
 
-3 Database Management
+3. Database Management
 MySQL, PostgreSQL, MongoDB
 Redis (for caching) and ElasticSearch (Search optimization)
 
-4 DevOps & CI/CD
+4. DevOps & CI/CD
 Jenkins, GitLab CI/CD
 Docker and Kubernetes for automated build and deployment
 
-5 Security & Authentication
+5. Security & Authentication
 Spring Security, OAuth 2.0, JWT
 OWASP Best Practices for secure coding
 
-6 Testing & Quality Assurance
+6. Testing & Quality Assurance
 JUnit, Mockito, Selenium (for test automation)
 Postman (for API testing)
 
